@@ -8,3 +8,7 @@ conda create -y -n food-rec python=3.10
 conda activate food-rec
 pip install -r requirements.txt
 ```
+
+# Dataset
+Download the Yelp dataset [here](https://www.yelp.com/dataset)
+and place the content in the ```data/raw/``` folder
